@@ -1,0 +1,67 @@
+
+[
+    {
+        "AltarPrefabName" : "Eikthyrnir",
+        "Name"            : "Mystical altar",
+        "BossPrefab"      : "Eikthyr",
+        "SacrificeItem"   : "TrophyDeer",
+        "SacrificeAmount" : 10,
+        "ItemStandName"   : null
+    },
+    {
+        "AltarPrefabName" : "GDKing",
+        "Name"            : "Ancient bowl",
+        "BossPrefab"      : "gd_king",
+        "SacrificeItem"   : "AncientSeed",
+        "SacrificeAmount" : 9,
+        "ItemStandName"   : null
+    },
+    {
+        "AltarPrefabName" : "Bonemass",
+        "Name"            : "Boiling death",
+        "BossPrefab"      : "Bonemass",
+        "SacrificeItem"   : "WitheredBone",
+        "SacrificeAmount" : 10,
+        "ItemStandName"   : null
+    },
+    {
+        "AltarPrefabName" : "Dragonqueen",
+        "Name"            : "Sacrificial altar",
+        "BossPrefab"      : "Dragon",
+        "SacrificeItem"   : "DragonEgg",
+        "SacrificeAmount" : 1,
+        "ItemStandName"   : "dragoneggcup"
+    },
+    {
+        "AltarPrefabName" : "GoblinKing",
+        "Name"            : "Mystical altar",
+        "BossPrefab"      : "GoblinKing",
+        "SacrificeItem"   : "GoblinTotem",
+        "SacrificeAmount" : 1,
+        "ItemStandName"   : "goblinking_totemholder"
+    },
+    {
+        "AltarPrefabName" : "SvartalfrQueenAltar_New",
+        "Name"            : "Cursed Altar",
+        "BossPrefab"      : "SvartalfarQueen",
+        "SacrificeItem"   : "CursedEffigy",
+        "SacrificeAmount" : 5,
+        "ItemStandName"   : null
+    },
+    {
+        "AltarPrefabName" : "JotunnAltar",
+        "Name"            : "Frozen Altar",
+        "BossPrefab"      : "IceGolem",
+        "SacrificeItem"   : "InfusedGemstone_DoD",
+        "SacrificeAmount" : 5,
+        "ItemStandName"   : null
+    },
+    {
+        "AltarPrefabName" : "BlazingDamnedOneAltar",
+        "Name"            : "Blazing Altar",
+        "BossPrefab"      : "Succubus_Queen1",
+        "SacrificeItem"   : "SuccubusTail",
+        "SacrificeAmount" : 5,
+        "ItemStandName"   : null
+    }
+]

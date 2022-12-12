@@ -1,0 +1,15 @@
+{
+    "name": "GreatSwordFlametal",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:30:15:False",
+        "VolcanicStone_TW:6:3:False",
+        "BurningWorldTreeFragment:10:6:False",
+		"VolcanicCrystal_TW:8:4:False"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "DragonEgg",
+    "clone": true,
+    "clonePrefabName": "DragonEgg",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "ReducedDragonEgg:10:0:True",
+		"Simple_Purple_Socket:5:0:True"
+    ]
+}

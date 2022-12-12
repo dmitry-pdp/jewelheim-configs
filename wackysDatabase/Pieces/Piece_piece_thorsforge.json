@@ -1,0 +1,21 @@
+{
+    "name": "piece_thorsforge",
+    "m_name": "Modified Forge",
+    "m_description": "Craft Judes Equipment",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Bronze:10:0:True",
+        "Stone:10:0:True",
+        "RoundLog:5:0:True",
+        "GreydwarfEye:20:0:True"
+    ]
+}
