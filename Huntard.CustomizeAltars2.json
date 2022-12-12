@@ -5,7 +5,7 @@
         "Name"            : "Mystical altar",
         "BossPrefab"      : "Eikthyr",
         "SacrificeItem"   : "TrophyDeer",
-        "SacrificeAmount" : 10,
+        "SacrificeAmount" : 2,
         "ItemStandName"   : null
     },
     {
@@ -13,7 +13,7 @@
         "Name"            : "Ancient bowl",
         "BossPrefab"      : "gd_king",
         "SacrificeItem"   : "AncientSeed",
-        "SacrificeAmount" : 9,
+        "SacrificeAmount" : 3,
         "ItemStandName"   : null
     },
     {
@@ -51,16 +51,16 @@
     {
         "AltarPrefabName" : "JotunnAltar",
         "Name"            : "Frozen Altar",
-        "BossPrefab"      : "IceGolem",
-        "SacrificeItem"   : "InfusedGemstone_DoD",
+        "BossPrefab"      : "Jotunn",
+        "SacrificeItem"   : "YmirsSoulEssence",
         "SacrificeAmount" : 5,
         "ItemStandName"   : null
     },
     {
         "AltarPrefabName" : "BlazingDamnedOneAltar",
         "Name"            : "Blazing Altar",
-        "BossPrefab"      : "Succubus_Queen1",
-        "SacrificeItem"   : "SuccubusTail",
+        "BossPrefab"      : "HelDemon",
+        "SacrificeItem"   : "FenrirsHeart",
         "SacrificeAmount" : 5,
         "ItemStandName"   : null
     }

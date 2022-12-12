@@ -6,8 +6,8 @@ noble's armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Run
-      modifier: 15
+      skill: None
+      modifier: 0
     damage modifiers:
       Blunt: none
       Slash: none
@@ -164,8 +164,8 @@ barbarian's armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Knives
-      modifier: 15
+      skill: Axes
+      modifier: 25
     damage modifiers:
       Blunt: none
       Slash: none
@@ -203,7 +203,7 @@ barbarian's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -238,7 +238,7 @@ barbarian's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -273,7 +273,7 @@ barbarian's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -328,7 +328,7 @@ warrior's armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Swords
+      skill: Polearms
       modifier: 15
     damage modifiers:
       Blunt: none
@@ -367,7 +367,7 @@ warrior's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -402,7 +402,7 @@ warrior's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -443,7 +443,7 @@ warrior's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Bronze
@@ -460,8 +460,8 @@ plate armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Clubs
-      modifier: 15
+      skill: Blocking
+      modifier: 20
     damage modifiers:
       Blunt: none
       Slash: none
@@ -499,7 +499,7 @@ plate armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Iron
@@ -534,7 +534,7 @@ plate armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Iron
@@ -569,7 +569,7 @@ plate armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Iron
@@ -624,8 +624,8 @@ dragonslayer's armor:
     jump stamina drain modifier: -25
     carry weight modifier: 0
     skill modifier:
-      skill: Bows
-      modifier: 15
+      skill: Jump
+      modifier: 30
     damage modifiers:
       Blunt: none
       Slash: none
@@ -663,7 +663,7 @@ dragonslayer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Silver
@@ -704,7 +704,7 @@ dragonslayer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Silver
@@ -742,7 +742,7 @@ dragonslayer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Silver
@@ -801,7 +801,7 @@ wanderer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Flax
@@ -839,7 +839,7 @@ wanderer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Iron
@@ -874,7 +874,7 @@ wanderer's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: Iron
@@ -929,8 +929,8 @@ nomad's armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Polearms
-      modifier: 15
+      skill: Run
+      modifier: 25
     damage modifiers:
       Blunt: none
       Slash: none
@@ -945,7 +945,7 @@ nomad's armor:
     helmet:
       item prefab name: ArmorBlackmetalgarbHelmet
       required for set bonus: true
-      armor: 24
+      armor: 20
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -968,7 +968,7 @@ nomad's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -983,7 +983,7 @@ nomad's armor:
     chest:
       item prefab name: ArmorBlackmetalgarbChest
       required for set bonus: true
-      armor: 24
+      armor: 20
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1006,7 +1006,7 @@ nomad's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -1021,7 +1021,7 @@ nomad's armor:
     legs:
       item prefab name: ArmorBlackmetalgarbLegs
       required for set bonus: true
-      armor: 24
+      armor: 20
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1044,7 +1044,7 @@ nomad's armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -1064,8 +1064,8 @@ serpent armor:
     jump stamina drain modifier: 0
     carry weight modifier: 0
     skill modifier:
-      skill: Spears
-      modifier: 15
+      skill: Swim
+      modifier: 30
     damage modifiers:
       Blunt: none
       Slash: none
@@ -1080,7 +1080,7 @@ serpent armor:
     helmet:
       item prefab name: ArmorSerpentHelmet
       required for set bonus: true
-      armor: 28
+      armor: 30
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1103,7 +1103,7 @@ serpent armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -1121,7 +1121,7 @@ serpent armor:
     chest:
       item prefab name: ArmorSerpentChest
       required for set bonus: true
-      armor: 28
+      armor: 30
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1144,7 +1144,7 @@ serpent armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -1162,7 +1162,7 @@ serpent armor:
     legs:
       item prefab name: ArmorSerpentLegs
       required for set bonus: true
-      armor: 28
+      armor: 30
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1185,7 +1185,7 @@ serpent armor:
         Spirit: none
       recipe:
         enabled: true
-        station: piece_thorsforge
+        station: forge
         minimum station level: 1
         requirements:
         - item: BlackMetal
@@ -1203,7 +1203,7 @@ serpent armor:
     cape:
       item prefab name: ArmorSerpentCape
       required for set bonus: true
-      armor: 2
+      armor: 3
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1259,7 +1259,7 @@ scorched armor:
     helmet:
       item prefab name: ArmorMistlandsHelmet
       required for set bonus: true
-      armor: 30
+      armor: 34
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1281,8 +1281,8 @@ scorched armor:
         Poison: none
         Spirit: none
       recipe:
-        enabled: false
-        station: piece_thorsforge
+        enabled: true
+        station: forge
         minimum station level: 1
         requirements:
         - item: Flametal
@@ -1297,7 +1297,7 @@ scorched armor:
     chest:
       item prefab name: ArmorMistlandsChest
       required for set bonus: true
-      armor: 30
+      armor: 34
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1319,8 +1319,8 @@ scorched armor:
         Poison: none
         Spirit: none
       recipe:
-        enabled: false
-        station: piece_thorsforge
+        enabled: true
+        station: forge
         minimum station level: 1
         requirements:
         - item: Flametal
@@ -1335,7 +1335,7 @@ scorched armor:
     legs:
       item prefab name: ArmorMistlandsLegs
       required for set bonus: true
-      armor: 30
+      armor: 34
       armor per level: 2
       enable durability: true
       baseDurability: 1000
@@ -1357,8 +1357,8 @@ scorched armor:
         Poison: none
         Spirit: none
       recipe:
-        enabled: false
-        station: piece_thorsforge
+        enabled: true
+        station: forge
         minimum station level: 1
         requirements:
         - item: Flametal
@@ -1397,8 +1397,8 @@ simple backpack:
       armor: 0
       armor per level: 2
       enable durability: true
-      baseDurability: 500
-      durability per level: 100
+      baseDurability: 10
+      durability per level: 10
       repairable: true
       destroy when broken: false
       weight: 15
@@ -1416,7 +1416,7 @@ simple backpack:
         Poison: none
         Spirit: none
       recipe:
-        enabled: false
+        enabled: true
         station: piece_workbench
         minimum station level: 1
         requirements:
@@ -1456,7 +1456,7 @@ heavy backpack:
       armor: 0
       armor per level: 2
       enable durability: true
-      baseDurability: 500
+      baseDurability: 100
       durability per level: 100
       repairable: true
       destroy when broken: false
@@ -1475,8 +1475,8 @@ heavy backpack:
         Poison: none
         Spirit: none
       recipe:
-        enabled: false
-        station: piece_thorsforge
+        enabled: true
+        station: piece_workbench
         minimum station level: 1
         requirements:
         - item: Wood
