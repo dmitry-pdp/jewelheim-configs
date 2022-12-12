@@ -1,6 +1,0 @@
-﻿PrintComment: ThisGoesHere is Moving CLLC Enligsh File.
-CopyFile:
-- From: config\_JewelHeimFiles\ThisGoesHereMovedFiles\English.yml
-  To: plugins\Smoothbrain-CreatureLevelAndLootControl\English.yml
-- From: config\_JewelHeimFiles\ThisGoesHereMovedFiles\MonsterLabZ.cfg
-  To: config\MonsterLabZ.cfg
