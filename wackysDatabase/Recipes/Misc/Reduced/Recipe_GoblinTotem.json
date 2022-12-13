@@ -1,0 +1,13 @@
+{
+    "name": "GoblinTotem",
+    "clone": true,
+    "clonePrefabName": "GoblinTotem",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 2,
+    "disabled": false,
+    "reqs": [
+        "ReducedFulingTotem:15:0:True",
+		"Simple_Orange_Socket:5:0:True"
+    ]
+}

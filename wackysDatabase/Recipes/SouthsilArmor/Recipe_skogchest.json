@@ -1,0 +1,15 @@
+{
+    "name": "skogchest",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:20:10:True",
+        "ArcticMammothPelt_TW:10:5:True",
+		"GlacierCrystal_TW:10:5:True",
+        "TyraniumBar_TW:10:5:True"
+    ]
+}

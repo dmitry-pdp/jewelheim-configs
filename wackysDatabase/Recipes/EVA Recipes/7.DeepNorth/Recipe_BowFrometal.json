@@ -1,0 +1,15 @@
+{
+    "name": "BowFrometal",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:15:7:False",
+        "GlacierCrystal_TW:8:4:False",
+        "GlacierStone_TW:2:1:False",
+        "BorealWood_TW:4:2:False"
+    ]
+}

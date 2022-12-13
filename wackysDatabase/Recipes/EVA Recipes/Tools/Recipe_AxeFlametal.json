@@ -1,0 +1,15 @@
+{
+    "name": "AxeFlametal",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:20:10:False",
+        "ScorchedWood_TW:5:2:False",
+        "VolcanicStone_TW:3:0:False",
+		"VolcanicCrystal_TW:0:2:False"
+    ]
+}

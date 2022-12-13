@@ -1,0 +1,138 @@
+TreeSpider:
+ Mistlands:
+  damage: 17
+  health: 12
+TheNasty:
+ Swamp:
+  damage: 0.7
+  health: 0.8
+BlackDeer_DoD:
+ Meadows:
+  health: 0.10
+ BlackForest:
+  health: 0.10
+ Mistlands:
+  health: 0.5
+BlackStag_DoD:
+ Meadows:
+  health: 0.10
+ BlackForest:
+  health: 0.10
+ Mistlands:
+  health: 0.5
+#DeepNorth
+IceDrake_DoD:
+ DeepNorth:
+  damage: 1.3
+  health: 0.5
+Yeti:
+ DeepNorth:
+  damage: 2
+  health: 0.7
+IceGolem_DoD:
+ DeepNorth:
+  damage: 1.7
+  health: 0.5
+Frostling_DoD:
+ DeepNorth:
+  damage: 2
+  health: 2.5
+WereWolfWhite:
+ DeepNorth:
+  damage: 1.5
+  health: 0.35
+Ghost_Ice_DoD:
+ DeepNorth:
+  damage: 5
+  health: 3.5
+Serpent:
+  DeepNorth:
+    damage: 2
+    health: 2
+#Ashlands
+Surtling:
+ Ashlands:
+   Override:
+    Amount: 0
+FireGolem:
+  Ashlands:
+    damage: 2
+    health: 0.8
+Succubus:
+  Ashlands:
+    damage: 2.5
+    health: 2.2
+EarthTroll:
+  Ashlands:
+    damage: 2.7
+    health: 0.5
+LivingLava_DoD:
+  Ashlands:
+    damage: 2
+    health: 1
+LavaGolem_DoD:
+  Ashlands:
+    damage: 1.7
+    health: 0.4
+GreaterSurtling_DoD:
+  Ashlands:
+    damage: 2
+    health: 1.5
+FlameDrake_DoD:
+  Ashlands:
+    damage: 2
+    health: 0.4
+#Other
+KrakenLD:
+    stars: 1
+NightmareDragonEV:
+    damage: 0.5
+    damage per star: 0.02
+    health: 0.2666
+    health per star: 0.08
+Eikthyr:
+  Override:
+    damage: 1.8
+IceGolem:
+  damage: 2
+  health: 10
+Surtr:
+  damage: 1.5
+  health: 1.5  
+Succubus_Queen1:
+  damage: 3
+  health: 2
+Succubus_Queen2:
+  damage: 3
+  health: 2
+##DoorDie Bosses##
+Rambore_DoD:
+    stars: 5
+Bitterstump_DoD:
+    stars: 5
+BhygshanAlt_DoD:
+    stars: 5
+Farkas_Alt_DoD:
+    stars: 5
+SkirSandburst_DoD:
+    stars: 5
+#
+WendigoSwamp:
+  damage: 0.5
+  health: 0.4
+ForestWolf_DoD:
+  damage: 0.7
+  health: 0.3
+LivingWater_DoD:
+  damage: 0.4
+  health: 0.7
+DwarfGoblinLoot:
+  movement speed: 1.6
+GreenSpider:
+ Meadows:
+  health: 2
+MolluscanLand:
+  damage: 0.9
+  health: 0.8
+  damage taken:
+    Bows: 1.8
